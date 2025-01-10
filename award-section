@@ -1,0 +1,694 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>award section</title>
+</head>
+<body>
+    <section id="awards" class="half-height">
+        <div class="wrapper">
+          <h1 class="title">Our Awards</h1>
+          
+              <div class="awards-container-for-desktop">
+        <div class="award-column">
+            <div class="award-box float-up award-box-1x1">
+                <a href="https://www.youtube.com/watch?v=kjD7SyD_JpA" target="_blank">
+                <h3>DigiPlus by <br>
+                    ET Brand Equity</h3>
+                    <span id="award-h3-txt-1x1">Best B2B campaign - Export Apnao Business Badhao (eBay)</span>
+                <div class="award-image-container wave">
+                    <img src="https://clevertize.com/asset-img/images/award-DG-2020.png" alt="Best Innovation Award" class="award-image">
+                </div></a>
+            </div>
+            <div class="award-box float-up award-box-1x2">
+                
+                <div class="award-image-container">
+                    <img src="https://clevertize.com/asset-img/images/image (2).png" alt="Customer Excellence Award" class="award-image">
+                </div>
+            </div>
+            
+            <div class="award-box float-up award-box--2x3 award-in-mobile-display">
+                <div class="award-image-container wave">
+                    <img src="https://clevertize.com/asset-img/images/award-box-img-2x3.jpeg" width="100%" height="230" alt="Customer Excellence Award" class="award-image">
+                </div>
+            </div>
+            
+            <div class="award-box float-up award-box--4x1 award-box-mob-blue">
+                <a href="https://www.youtube.com/watch?v=z_2-I2RUBXk" target="_blank">
+                <h3>DigiPlus by ET Brand Equity</h3>
+                    <span class="award-h3-txt-1x1">Industry Award for Food & Beverage</span>
+                <div class="award-image-container wave">
+                    <img src="https://clevertize.com/asset-img/images/award-DG-2020.png" alt="Design Excellence Award" class="award-image">
+                </div></a>
+            </div>
+            
+            <div class="award-box float-up award-box--2x3 award-in-mobile-display">
+                <div class="award-image-container">
+                    <img src="https://clevertize.com/asset-img/images/award-box-img-2x3.jpeg" width="100%" height="230" alt="Customer Excellence Award" class="award-image">
+                </div>
+            </div>
+            
+            <div class="award-box float-up award-box---1x4">
+                
+                <div class="award-image-container">
+                    <img src="https://clevertize.com/asset-img/images/award-box--4x3.webp" alt="Global Expansion Award" class="award-image">
+                </div>
+            </div>
+        </div>
+        <div class="award-column top-padding-2x1">
+            <div class="award-box float-up award-box--2x1">
+                <h3>Click to Reveal <br>
+                    Campaign video
+                </h3>
+                
+            </div>
+            <div class="award-box float-up award-box--2x2">
+                
+                <h3>Social Samosa Sammie</h3>
+                <span id="award-h3-txt-1x1"> 
+Best use of Social Media to generate leads or drive revenues - METRO Wholesale</span>
+                <div class="award-image-container wave aic--box">
+                    <img src="https://clevertize.com/asset-img/images/bb1-rticle-awqard.png" alt="Best Startup Award" class="award-image">
+                </div>
+            </div>
+            <div class="award-box float-up award-box--2x3">
+                <div class="award-image-container">
+                    <img src="https://clevertize.com/asset-img/images/award-box-img-2x3.jpeg" width="100%" height="230" alt="Customer Excellence Award" class="award-image">
+                </div>
+            </div>
+
+            <div class="award-box float-up award-box--2x2">
+                <a href="https://www.youtube.com/watch?v=5BmP39WMfWs" target="_blank">
+                <h3>DigiPlus by
+                    ET Brand Equity
+                    </h3>
+                <span id="award-h3-txt-1x1"> 
+                    Industry Award for Education</span>
+                <div class="award-image-container wave">
+                    <img src="https://clevertize.com/asset-img/images/award-DG-2020.png" alt="Best Startup Award" class="award-image">
+                </div></a>
+            </div>
+
+            <div class="award-box float-up award-box-2x4">
+                <a href="https://www.youtube.com/watch?v=s4rpi-h7olw" target="_blank">
+                <h3>SOCIAL SAMOSA SAMMIE
+                    </h3>
+                <span id="award-h3-txt-1x1"> 
+                    Best Social Media Brand - Barbeque Nation</span></a>
+            </div>
+            <div class="award-box float-up award-box-2x5">
+                
+                <div class="award-image-container wave">
+                    <img src="https://clevertize.com/asset-img/images/bb1-rticle-awqard.png" alt="Community Impact Award" class="award-image">
+                </div>
+                
+            </div>
+        </div>
+        <div class="award-column">
+            <div class="award-box float-up img-award-box-3x1">
+                
+                <div class="award-image-container img-container-3x1">
+                    <img src="https://clevertize.com/asset-img/images/award-sec-1.webp" alt="Design Excellence Award" class="award-image">
+                </div>
+            </div>
+            <div class="award-box float-up award-box--3x2">
+                <span class="award-h3-txt-1x1">Next Destination</span>
+                <h3>The Cannes</h3>
+            </div>
+
+            <div class="award-box float-up award-box--1x3">
+                <a href="https://www.youtube.com/watch?v=z_2-I2RUBXk" target="_blank">
+                <h3>BIG BANG AWARDS</h3>
+                    <span id="award-h3-txt-1x1">  
+                        Best Digital Content - Barbeque Nation</span>
+                <div class="award-image-container wave wave aic--box">
+                    <img src="https://clevertize.com/asset-img/images/awrad-box--3-img01.png" alt="Best Innovation Award" class="award-image">
+                </div></a>
+            </div>
+
+            <div class="award-box float-up award-box--3x3">
+                <h4>Never been an award we didn't win after application</h4>
+            </div>
+            
+            <div class="award-box float-up award-box--3x4">
+                <a href="https://youtu.be/CQuk_UEToS4" target="_blank">
+                <h3>Big Bang Awards</h3>
+                    <span class="award-h3-txt-1x1">Best Integrated Campaign - David Lloyd Clubs Talwalkars</span> 
+                <div class="award-image-container wave aic--box">
+                    <img src="https://clevertize.com/asset-img/images/awrad-box--3-img01.png" alt="Leadership Excellence" class="award-image">
+                </div></a>
+            </div>
+            
+            <div class="award-box float-up award-box--3x2">
+                <h4>We were honored with the Industry Award for Food & Beverage at Digiplus, and we didn’t even apply for it!</h4>
+            </div>
+
+        </div>
+        <div class="award-column">
+            <div class="award-box float-up award-box--4x4">
+                <a href="https://www.youtube.com/watch?v=U_Jj5sZYAZg" target="_blank">
+                <h3>afaqs foxglove awards</h3>
+                    <span class="award-h3-txt-1x1">Best Branded Content (Campaign) - eBay</span>
+                <div class="award-image-container wave">
+                    <img src="https://clevertize.com/asset-img/images/foxglove-award1.png" alt="Leadership Excellence" class="award-image">
+                </div></a>
+            </div>
+            
+            <div class="award-box float-up award-box--4x2">
+                <h4>We won the Industry Award for Food & Beverage at Digiplus without even applying for it!</h4>
+                
+            </div>
+            
+            <div class="award-box float-up award-box---4x4">
+                <div class="award-image-container">
+                    <img src="https://clevertize.com/asset-img/images/background-tile-red-gradient-box.png" alt="Leadership Excellence" class="award-image">
+                </div>
+            </div>
+            
+            <div class="award-box float-up award-box--1x4">
+                <h4>Makkhan Singh (Mr. Tikku), our Influencer of the year, even went on to give a Ted Talk!</h4>
+                
+            </div>
+
+            
+
+            <div class="award-box float-up award-box--1x5">
+                
+                <h3>Social Samosa SAMMIE</h3>
+                <span class="award-h3-txt-1x1">Best B2B campaign METRO Wholesale</span>
+                <div class="award-image-container wave aic--box">
+                    <img src="https://clevertize.com/asset-img/images/bb1-rticle-awqard.png" alt="Leadership Excellence" class="award-image">
+                </div>
+                
+            </div>
+            
+        </div>
+    </div>
+              <div class="awards-container-for-mobile">
+                  
+        <div class="award-column">
+
+<div class="award-box float-up award-box--4x2">
+                <h4>We won the Industry Award for Food & Beverage at Digiplus without even applying for it!</h4>
+            </div>
+            
+            <div class="award-box float-up award-box--4x4">
+                <a href="https://www.youtube.com/watch?v=U_Jj5sZYAZg" target="_blank">
+                <h3>afaqs foxglove awards</h3>
+                    <span class="award-h3-txt-1x1">Best Branded Content (Campaign) - eBay</span>
+                <div class="award-image-container">
+                    <img src="https://clevertize.com/asset-img/images/foxglove-award1.png" alt="Leadership Excellence" class="award-image">
+                </div></a>
+            </div>
+            
+            <div class="award-box float-up award-box-1x2">
+                <div class="award-image-container">
+                    <img src="https://clevertize.com/asset-img/images/image (2).png" alt="Customer Excellence Award" class="award-image">
+                </div>
+            </div>
+            
+            <div class="award-box float-up award-box-1x1">
+                <a href="https://www.youtube.com/watch?v=kjD7SyD_JpA" target="_blank">
+                <h3>DigiPlus by <br>
+                    ET Brand Equity</h3>
+                    <span id="award-h3-txt-1x1">Best B2B campaign - Export Apnao Business Badhao (eBay)</span>
+                <div class="award-image-container">
+                    <img src="https://clevertize.com/asset-img/images/award-DG-2020.png" alt="Best Innovation Award" class="award-image">
+                </div></a>
+            </div>
+            
+            
+            <div class="award-box float-up award-box---1x4">
+                <div class="award-image-container">
+                    <img src="https://clevertize.com/asset-img/images/award-box--4x3.webp" alt="Global Expansion Award" class="award-image">
+                </div>
+            </div>
+            
+            <div class="award-box float-up award-box--2x2">
+               
+                <h3>Social Samosa Sammie</h3>
+                <span id="award-h3-txt-1x1"> 
+Best use of Social Media to generate leads or drive revenues - METRO Wholesale</span>
+                <div class="award-image-container aic--box">
+                    <img src="https://clevertize.com/asset-img/images/bb1-rticle-awqard.png" alt="Best Startup Award" class="award-image">
+                </div>
+            </div>
+            
+            <div class="award-box float-up award-box--4x1 award-box-mob-green">
+                <a href="https://www.youtube.com/watch?v=z_2-I2RUBXk" target="_blank">
+                <h3>DigiPlus by ET Brand Equity</h3>
+                    <span class="award-h3-txt-1x1">Industry Award for Food & Beverage</span>
+                <div class="award-image-container">
+                    <img src="https://clevertize.com/asset-img/images/award-DG-2020.png" alt="Design Excellence Award" class="award-image">
+                </div></a>
+            </div>
+            
+            <div class="award-box float-up award-box--1x4">
+                <h4>Makkhan Singh (Mr. Tikku), our Influencer of the year, even went on to give a Ted Talk!</h4>
+            </div>
+            
+            <div class="award-box float-up award-box---4x4">
+                <div class="award-image-container">
+                    <img src="https://clevertize.com/asset-img/images/background-tile-red-gradient-box.png" alt="Leadership Excellence" class="award-image">
+                </div>
+            </div>
+            
+
+            
+            
+        </div>
+        
+        <div class="award-column top-padding-2x1">
+            
+            <div class="award-box float-up img-award-box-3x1">
+                
+                <div class="award-image-container img-container-3x1">
+                    <img src="https://clevertize.com/asset-img/images/award-sec-1.webp" alt="Design Excellence Award" class="award-image">
+                </div>
+            </div>
+            <div class="award-box float-up award-box--3x3 award-box-mob-red">
+                <h4>Never been an award we didn't win after application</h4>
+                </div>
+            
+            <div class="award-box float-up award-box--2x2">
+                <a href="https://youtu.be/5BmP39WMfWs" target="_blank">
+                <h3>DigiPlus by
+                    ET Brand Equity
+                    </h3>
+                <span id="award-h3-txt-1x1"> 
+                    Industry Award for Education</span>
+                <div class="award-image-container wave">
+                    <img src="https://clevertize.com/asset-img/images/award-DG-2020.png" alt="Best Startup Award" class="award-image">
+                </div></a>
+            </div>
+            
+            <div class="award-box float-up award-box--2x3">
+                <div class="award-image-container">
+                    <img src="https://clevertize.com/asset-img/images/award-box-img-2x3.jpeg" width="100%" height="230" alt="Customer Excellence Award" class="award-image">
+                </div>
+            </div>
+
+            <div class="award-box float-up award-box-2x4 award-box-mob-blue">
+                <a href="https://www.youtube.com/watch?v=s4rpi-h7olw" target="_blank">
+                <h3>SOCIAL SAMOSA SAMMIE
+                    </h3>
+                <span id="award-h3-txt-1x1"> 
+                    Best Social Media Brand - Barbeque Nation</span></a>
+            </div>
+            
+            <div class="award-box float-up award-box-2x5">
+                
+                <div class="award-image-container">
+                    <img src="https://clevertize.com/asset-img/images/bb1-rticle-awqard.png" alt="Community Impact Award" class="award-image">
+                </div>
+            </div>
+            
+            <div class="award-box float-up award-box--3x2 award-box-mob-green">
+                <span class="award-h3-txt-1x1">Next Destination</span>
+                <h3>The Cannes</h3>
+            </div>
+            
+            
+            <div class="award-box float-up award-box--1x3">
+                <a href="https://www.youtube.com/watch?v=z_2-I2RUBXk" target="_blank">
+                <h3>BIG BANG AWARDS</h3>
+                    <span id="award-h3-txt-1x1">  
+                        Best Digital Content - Barbeque Nation</span>
+                <div class="award-image-container wave aic--box">
+                    <img src="https://clevertize.com/asset-img/images/awrad-box--3-img01.png" alt="Best Innovation Award" class="award-image">
+                </div>
+                </a>
+            </div>
+
+            
+            
+            <div class="award-box float-up award-box--3x4">
+                <a href="https://youtu.be/CQuk_UEToS4" target="_blank">
+                <h3>Big Bang Awards</h3>
+                    <span class="award-h3-txt-1x1">Best Integrated Campaign - David Lloyd Clubs Talwalkars</span> 
+                <div class="award-image-container aic--box">
+                    <img src="https://clevertize.com/asset-img/images/awrad-box--3-img01.png" alt="Leadership Excellence" class="award-image">
+                </div></a>
+            </div>
+            
+            <div class="award-box float-up award-box--3x2">
+                <h4>We were honored with the Industry Award for Food & Beverage at Digiplus, and we didn’t even apply for it!</h4>
+            </div>
+            <div class="award-box float-up award-box--1x5">
+                
+                <h3>Social Samosa SAMMIE</h3>
+                <span class="award-h3-txt-1x1">Best B2B campaign METRO Wholesale</span>
+                <div class="award-image-container aic--box">
+                    <img src="https://clevertize.com/asset-img/images/bb1-rticle-awqard.png" alt="Leadership Excellence" class="award-image">
+                </div>
+            </div>
+            
+        </div>
+        
+        
+    </div>
+                <style>
+    
+    body {
+        
+        background-color: #f0f0f0;
+        margin: 0;
+    }
+    
+    .awards-container-for-desktop {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 20px;
+        max-width: 1200px;
+        margin: 0 auto;
+    }
+    .awards-container-for-mobile {
+        display:none;
+    }
+    .award-column {
+        flex: 1;
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+    }
+    .award-box {
+        background: linear-gradient(135deg, #0000ff, #ff0000);
+        color: white;
+        padding: 20px;
+        border-radius: 20px;
+        text-align: center;
+        /* perspective: 1000px; */
+        transition: transform 0.3s ease;
+    }
+    /* .award-box:hover {
+        transform: translateY(-5px);
+    } */
+    .award-box.float-up a {
+color: #fff !important;
+}
+    .award-box h3 {
+        margin: 0;
+        font-size: 24px;
+        text-transform: uppercase;
+        font-family: Staatliches, cursive;
+        font-weight: 400;
+    }
+    .award-image-container {
+        position: relative;
+        /* width: 200px;
+        height: 200px; */
+        margin: 0 auto;
+        /* transform-style: preserve-3d;
+        animation: floataa 3s ease-in-out infinite, rotate 10s linear infinite;
+        perspective: 1000px; */
+    }
+    .award-image {
+        width: 100%;
+        height: 100%;
+        object-fit: contain;
+        transition: transform 0.3s ease;
+        transform-style: preserve-3d;
+    }
+    .award-box.award-box--2x3.award-in-mobile-display {
+        display: none;
+    }
+    .award-box.img-award-box-3x1 {
+        padding: 0;
+        border-radius: 20px;
+        background: none;
+    }
+    .award-image-container.img-container-3x1 {
+        width: 100%;
+        height: auto;
+        margin: 0;
+    }
+    .award-image-container.img-container-3x1 img {
+        border-radius: 20px;
+        object-fit: cover;
+        height: 150px;
+        }
+        .top-padding-2x1 {
+            padding-top: 0;
+        }
+        .award-box--3x2 {
+            background: linear-gradient(180deg, #C22341 0%, #742453 100%);
+
+        }
+        .award-h3-txt-1x1, #award-h3-txt-1x1 {
+            font-size: 14px!important;
+        }
+        .award-box.award-box-1x1, .award-box.award-box-2x4 {
+            background: linear-gradient(180deg, #42A193 0%, #CFBA4B 100%);
+        }
+        .award-box.award-box-1x2 {
+            padding: 0;
+            background: transparent;
+        }
+        .award-box.award-box--1x3, .award-box-2x5, .award-box--3x5 {
+            background: linear-gradient(180deg, #C22341 0%, #742453 100%);
+        }
+        .award-box.award-box-1x1, .award-box.award-box--1x3 {
+            padding-top: 2rem;
+        }
+        .award-box.award-box.award-box--1x4 {
+            background: linear-gradient(180deg, #655791 0%, #2D969A 100%);
+        }
+        
+        .award-box.award-box--1x5 {
+            background: linear-gradient(180deg, #42A193 0%, #CFBA4B 100%);
+        }
+        .award-box.award-box--2x2 {
+            background: linear-gradient(180deg, #C22341 0%, #742453 100%);
+        }
+        .award-box.award-box--2x3 {
+            background: none;
+            padding: 0;
+            border-radius: 20px;
+        }
+        .award-box.award-box--2x3 img {
+            border-radius: 20px;
+        }
+        .award-box--3x3, .award-box--3x4 {
+            background: linear-gradient(180deg, #655791 0%, #2D969A 100%);
+        }
+        /* .award-box--3x5 {
+            height: 145px;
+        } */
+        .award-box--4x1 {
+            background: linear-gradient(180deg, #655791 0%, #2D969A 100%);
+        }
+        .award-box--4x2 {
+            background: linear-gradient(180deg, #C22341 0%, #742453 100%);
+        }
+        .award-box--4x2 h4 {
+            font-size: 20px;
+            font-weight: 400;
+        }
+        .award-box--4x3 {
+            padding: 0;
+            background: none;
+        }
+        .award-box--4x3 img {
+            border-radius: 20px;
+        }
+        .award-box--4x4 {
+            background: linear-gradient(180deg, #42A193 0%, #CFBA4B 100%);
+        }
+        .award-box---1x4 {
+            height: 200px;
+            background: none;
+            padding: 0;
+        }
+        .award-box---1x4 img {
+            padding: 0;
+            border-radius: 20px;
+            
+        }
+        .award-box--2x1 {
+            background: linear-gradient(180deg, #C22341 0%, #742453 100%);
+            background: transparent;
+        }
+        .award-box.float-up.award-box--2x1 h3 {
+color: #000;
+border: 2px solid #000;
+border-radius: 15px;
+}
+        .award-box--3x2 h3 {
+            font-size: 2rem;
+        }
+        .award-box.award-box--3x3 h4 {
+            font-size: 20px;
+            font-weight: 400;
+        }
+        .award-box---4x4 {
+            background: none;
+            padding: 0;
+        }
+        .aic--box {
+            padding-top: 2rem;
+        }
+        .award-box--1x1x3 {
+            padding: 0;
+            background: none;
+        }
+        .award-box--1x1x3 img {
+            border-radius: 20px;
+        }
+        .award-box.award-box-1x1 {
+            margin-top: 8.8rem;
+        }
+        .award-box--2x1 {
+            margin-top: 2rem;
+        }
+        .award-box.award-box--3x2 h4, .award-box.award-box--1x4 h4 {
+                font-size: 20px;
+                font-weight: 400;
+        }
+        .award-box.award-box--4x1 {
+            margin-top: 0;
+        }
+        .award-box.award-box--2x3.award-in-mobile-display {
+display: none;
+}
+
+.float-up:hover {
+bottom: 10px;
+transition: 0.4s all;
+transform: scale(1);
+z-index: 999;
+}
+.float-up {
+transition: 0.4s all;
+position: relative;
+bottom: 0;
+}
+
+@media screen and (min-width: 1550px) {
+section#our_client {
+margin-top: 5rem;
+}
+}
+@media screen and (max-width: 1200px) {
+section#our_client {
+margin-top: 1rem;
+}
+}
+
+
+    /* .wave {*/
+    /*    animation: wave 4s ease-in-out infinite;*/
+    /*} */
+     
+
+    /* @keyframes wave {*/
+    /*    0%, 100% { transform: translateX(0) rotateY(-25deg); }*/
+    /*    50% { transform: translateX(20px) rotateY(25deg); }*/
+    /*}*/
+
+    /*@media (prefers-reduced-motion: reduce) {*/
+    /*    .wave {*/
+    /*        animation: none;*/
+    /*    }*/
+    /*} */
+
+    /* @keyframes float {*/
+    /*    0%, 100% { transform: translateX(-50px) rotateY(0deg); }*/
+    /*    50% { transform: translateX(50px) rotateY(180deg); }*/
+    /*}*/
+    /*@keyframes rotate {*/
+    /*    0% { transform: rotateY(0deg); }*/
+    /*    100% { transform: rotateY(360deg); }*/
+    /*} */
+    @media (max-width: 1024px) {
+        
+        .award-box.award-box-1x1, .award-box.award-box--4x1 {
+            margin-top: 0;
+        }
+        .award-box.award-box--3x2 h4, .award-box.award-box--1x4 h4, .award-box.award-box--3x3 h4 {
+font-size: 14px;
+font-weight: 400;
+}
+.award-box h3 {
+font-size: 20px;
+}
+.award-h3-txt-1x1, #award-h3-txt-1x1 {
+font-size: 9px !important;
+}
+.award-box--3x2 h3 {
+font-size: 20px;
+}
+.aic--box {
+padding-top: 1rem;
+}
+.award-box--4x2 h4 {
+font-size: 14px;
+font-weight: 400;
+}
+}
+
+@media screen and (max-width: 991px) {
+.award-box.award-box-1x1, .award-box.award-box--4x1 {
+            margin-top: 0;
+        }
+        .award-box.award-box--3x2 h4, .award-box.award-box--1x4 h4, .award-box.award-box--3x3 h4 {
+            font-size: 14px;
+            font-weight: 400;
+        }
+        .award-box {
+            padding: 10px;
+        }
+}
+        
+    @media screen and (max-width: 767px) {
+        
+        .awards-container-for-mobile {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 20px;
+        max-width: 1200px;
+        margin: 0 auto;
+    }
+    .awards-container-for-desktop {
+        display:none!important;
+    }
+        .award-box.award-box-1x1, .award-box.award-box--4x1 {
+            margin-top: 0;
+        }
+        .award-box.award-box--3x2 h4, .award-box.award-box--1x4 h4, .award-box.award-box--3x3 h4 {
+font-size: 16px;
+font-weight: 400;
+}
+.award-box.award-box--2x3.award-in-mobile-display {
+        display: block;
+    }
+    .award-box.award-box--2x1 {
+margin-top: 0;
+}
+.award-box---1x4 {
+height: auto;
+}
+.award-box.float-up.award-box---4x4 {
+padding: 0;
+}
+.award-h3-txt-1x1, #award-h3-txt-1x1 {
+    font-size: 12px !important;
+}
+.award-box-mob-red {
+    background: linear-gradient(180deg, #C22341 0%, #742453 100%);
+}
+.award-box-mob-blue {
+    background: linear-gradient(180deg, #655791 0%, #2D969A 100%)!important;
+}
+.award-box-mob-green {
+    background: linear-gradient(180deg, #42A193 0%, #CFBA4B 100%);
+}
+    }
+
+</style>
+
+
+        </div>
+      </section>
+</body>
+</html>
